@@ -1,0 +1,624 @@
+text,label,ood_score_cosine,ood_score_kmeans,ood_score_mahalanobis
+Prokurist,Other,0.5006753,0.9996696,1771.4823607742758
+Solutions Architect,Information Technology,0.09212595,0.42922825,816.4829560640327
+Medizintechnik Beratung,Consulting,0.1569457,0.5425738,1089.7275560012104
+Director expansión de negocio.,Business Development,0.00712651,0.11930555,245.13210289200038
+"APL-ansvarig, samordning",Administrative,0.015993476,0.17828582,354.87703693029033
+Kaufmännischer Leiter,Sales,0.4399683,0.92351794,1592.559805059473
+Lab-Supervisor,Other,0.32108212,0.7755959,1047.6983813968086
+Human Resources Generalist,Human Resources,0.046940446,0.27442718,121.16614975542487
+Managing Director,Other,0.5972677,1.0922502,1942.8877015511073
+Set Lighting,Other,0.47393668,0.9725216,2682.2244709406637
+Projektmanager,Project Management,0.013128877,0.037141394,40.13507796401199
+Leistungssachbearbeiter SGB II,Other,0.015260994,0.17480601,376.09650565011776
+energy and sustainability consultant bei,Consulting,0.3995266,0.8932976,1895.5154405994538
+Purchasing Manager,Purchasing,0.0036321878,0.09607793,62.82362705659748
+Geschäftsführer,Other,0.1678173,0.5786011,1048.569563566224
+Senior Project Manager,Project Management,0.0030075312,0.05723979,43.567689632618894
+Dr. phil.,Other,0.2332744,0.67010564,1678.9435494550237
+"Geschäftsführer, CMO",Marketing,0.004456401,0.09336994,166.50261808354227
+Bereichsleiter Maschinen,Other,0.018418014,0.19044079,351.4921800704353
+Principal RF Design Engineer,Information Technology,0.028266191,0.23352413,441.91475065339495
+Physician Assistant,Other,0.032167077,0.24603496,397.62086975695973
+Co-Owner,Other,0.7095039,1.1796913,2011.6011142600385
+Director,Other,0.18172914,0.6021716,1137.4494481858083
+IT Systems and Network Engineer,Information Technology,0.00017637014,0.013270116,15.829244209560228
+IT-Teamleiter,Information Technology,0.00018024445,0.0128914025,13.320472004526973
+Senior Project Manager,Project Management,0.0030075312,0.05723979,43.567689632618894
+Head of HR/CHRO,Human Resources,0.015298486,0.16324367,196.49370633214335
+Human Resources Consultant,Consulting,0.0028401613,0.078028776,167.15928044998785
+Managing Director,Other,0.5972677,1.0922502,1942.8877015511073
+Product Manager,Project Management,0.46775317,0.9413366,2038.5859388277943
+Reporter,Other,0.26373768,0.7113634,1475.1001469081014
+Geschäftsführer,Other,0.1678173,0.5786011,1048.569563566224
+CEO / Managing Shareholder,Other,0.33145058,0.8139371,1545.765163068739
+Geschäftsführer,Other,0.1678173,0.5786011,1048.569563566224
+Director Sales,Sales,0.00020712614,0.014073603,9.145629823594838
+Sub-Stream Lead Simplify | Turnaround Programs,Project Management,0.23710817,0.6825165,1436.8615306906663
+Chief Revenue Officer (CRO),Sales,0.00048244,0.02982593,62.47424079000212
+Business Development Manager,Business Development,0.00046563148,0.015574105,12.625216186602762
+Projektleiterin Bildung,Other,0.2541874,0.71327156,1746.902939582938
+Co Owner,Other,0.26262432,0.7233157,1595.8911777211897
+"Practice Leader, Data Valorization Strategy",Consulting,0.114237726,0.47731212,1147.9166445566345
+iş güvenliği,Other,0.5416955,0.7695455,1522.3749279816188
+Geschäftsführer bei Giganet Services GmbH,Other,0.06920934,0.3715217,777.9078216430114
+Strategic Design Director,Marketing,0.28975362,0.7591032,1348.8099224331968
+Museumspädagoge,Other,0.65178585,1.1046513,1687.5519713480082
+Technical Team Lead,Information Technology,0.10649043,0.45985937,781.1647539275021
+Managing Director,Other,0.5972677,1.0922502,1942.8877015511073
+Gesellschafter,Other,0.7721965,1.1987716,1841.193069482131
+Maschinenbautechniker,Other,0.022792399,0.2128577,329.2637583433803
+Technical Customer Service Manager - Flexible Packaging,Customer Support,0.5714829,1.0669161,1855.2455077058044
+Java Software Engineer,Information Technology,0.021713018,0.20701122,430.74630446524054
+New Business Manager,Business Development,0.0006008148,0.021465324,25.77198891001784
+Strategic Engagement Manager,Business Development,0.6155312,1.057872,2040.1065462210056
+Head of aws Preseed and Seedfinancing - Innovative Solutions,Other,0.4333279,0.93067175,2164.2760171816576
+Director of Product Management,Project Management,0.47918957,0.9521959,1829.7898334233319
+Executive Director of Therapies and Developmental Services,Other,0.14561898,0.5343718,1144.413173351177
+Projektmanager,Project Management,0.013128877,0.037141394,40.13507796401199
+Project Engineer Process Technology - Future Farming,Information Technology,0.0954237,0.43198538,1142.3188831423743
+Kurucu Ortak,Other,0.2767552,0.74165833,1527.6623620259345
+Digital Marketing Manager,Marketing,3.540516e-05,0.004867268,5.909825123211058
+Eigenaar,Other,0.6160508,1.1091886,1627.0975509287964
+Procurement Manager Strategische Inkoop,Purchasing,0.22521049,0.6702286,1555.4698225318225
+Partner,Business Development,0.45393223,0.936832,2123.2159106487356
+Lead Naval Architect,Other,0.34732246,0.83332664,1608.5246189225145
+Inside Sales,Sales,0.00020873547,0.014221027,10.942264751620238
+Key-Account-Manager,Sales,0.00043427944,0.029484717,35.99270911483058
+Managing Director,Other,0.5972677,1.0922502,1942.8877015511073
+Berufskraftfahrer,Other,0.5404732,1.0286111,1710.6010305653608
+Head of Glass Technology,Other,0.028425395,0.23289278,596.7565034413815
+Key-Account-Manager,Sales,0.00043427944,0.029484717,35.99270911483058
+Accounting Manager,Other,0.002333045,0.059966385,142.2989547250489
+Interims Technical Manager,Information Technology,0.10002363,0.44589406,856.1356670291954
+Project Manager,Project Management,0.011159599,0.030353414,41.22507067104588
+Management Consultant Information Security and Privacy,Consulting,0.0035951138,0.085116856,259.9753568814973
+Büroleiter | Pressesprecher,Administrative,0.54117084,1.025095,1822.7382240537866
+Departementssekretär Finanz,Other,0.34645468,0.83144176,1630.6757719610584
+Managing Director,Other,0.5972677,1.0922502,1942.8877015511073
+Senior Manager Strategy & Business Transformation Health,Consulting,0.00040966272,0.015247551,21.69733633444008
+Manager | Mergers & Acquisitions,Other,0.040169477,0.28303906,629.258693403656
+Technical Transfer Leader,Consulting,0.042193532,0.2904087,688.2303522799881
+Account manager / Sælger Helly Hansen Workwear Sjælland & Bornholm,Sales,0.00083851814,0.023878988,42.756149961180064
+Geschäftsführender Gesellschafter,Other,0.49912328,0.9840526,1662.6553684211624
+Director,Other,0.18172914,0.6021716,1137.4494481858083
+Unternehmensinhaber,Other,0.4720872,0.9712827,1643.3335233315695
+"Board Member, CFO / Asset Management",Other,0.6469131,1.1075776,1709.793588772405
+CEO,Other,0.735356,1.2111485,1792.3440298026035
+Finance - AWS Global Private Pricing,Other,0.22920221,0.6765198,1521.9878546641376
+Software Developer,Information Technology,0.017224908,0.18425061,191.61849089976408
+Vice President Global Head Order Processing / Prokurist,Other,0.44070375,0.93767875,1513.415945765198
+CEO Morgenpost & TAG 24 | Vertriebsleiter Sächsische Zeitung / Lesermark | CEO MVD Ökoflitzer,Other,0.0002297163,0.016906716,16.384657437306224
+Key Account / Supply Manager,Other,0.000618577,0.017668445,38.3009748889109
+Projektleiter Qualität HV-Batterie,Project Management,0.012639165,0.16192064,326.763854779124
+Global Director Head of Portfolio and Business Development Global Service,Business Development,0.0004146695,0.015396715,23.913085913990724
+Summer Camp Counselor,Other,0.38738608,0.8723542,1434.3188449130664
+Project Lead for Swap Re-engineering Project,Project Management,0.2530852,0.7107123,1132.8432702980776
+Kanzler / CFO,Other,0.09654397,0.43824637,920.2134845673826
+Personalleiter,Human Resources,0.5342572,1.0146523,1727.8879927053915
+Assistant Director of Prospect Management and Data Analytics,Other,0.6633985,1.1362907,2103.4273053600373
+"Klavierlehrer, Korrepetitor",Other,0.27896315,0.7229262,1489.036255949219
+Managing Partner / Group Managing Board,Other,0.6205218,1.1114869,1920.1737420967931
+Manager,Other,0.24362546,0.69734216,1289.6354292802841
+Founder and Senior Partner,Consulting,0.29765207,0.7408088,1443.0618619568872
+Vorsitzender des Vorstandes,Other,0.43074113,0.9251084,1718.0251109562432
+Head of Engineering,Information Technology,0.027309477,0.2337058,356.6126375954919
+District Sales manager,Sales,7.1287155e-05,0.0061029936,7.809261582084515
+Assistant Treasurer Real Estate,Other,0.50217235,0.9849165,1788.5327359012808
+Managing Dircector,Other,0.29816777,0.7716692,1528.3785410376531
+Director of Business Analysts and Special Projects,Information Technology,0.00039935112,0.016591504,24.723086210541346
+Robotertechniker,Information Technology,0.11027807,0.4657047,1119.789020626716
+OÖ Koordinator für das Team der Bereiche Beschlagwortung / Zustellproblem,Purchasing,0.3251642,0.80102766,1705.063711064894
+Head of Content & Workflows,Marketing,0.468311,0.75857705,1295.55287207372
+Scierie collignon,Other,0.74411714,1.21902,2818.8233668497173
+Senior Microsoft 365 Engineer,Information Technology,0.007490456,0.12169453,146.7660674725419
+Product Manager Online Catalog & Shop,Other,0.32840914,0.798835,1480.7855316753405
+Diplom Bauingenieur,Other,0.48526222,0.9666138,1357.0408891597256
+"Executive Director, Marketing Strategy Director",Marketing,1.9133091e-05,0.0043791174,7.366872736701965
+Leiter Controlling und Rechnungswesen,Other,0.24661583,0.7020336,1474.6684354769252
+President,Other,0.8118833,1.2725478,2423.7784921748625
+"Architektin, Fachgebietsleitung Technisches und Strategisches Gebäudemanagement",Project Management,0.18346995,0.60035634,1188.491145885016
+Co-CEO,Other,0.560907,1.0579292,1756.1152505850325
+Vice President,Other,0.5276556,1.0247285,1872.7008838223474
+Krankenhausgeschäftsführer,Other,0.31738818,0.7828922,1551.8120171999547
+Co-Head of Bid Management CE,Sales,0.021538317,0.20691617,539.558438251353
+Leiter IT-Service- und Betriebsmanagement,Information Technology,0.00017893314,0.016189002,13.148251359900996
+Senior Human Resources Consultant,Consulting,0.0027790666,0.07094445,150.06832228296474
+Senior Legal Advisor,Other,0.12510186,0.50064015,1270.8986126087864
+Physiotherapeutin,Other,0.06677079,0.36000672,836.7890419375483
+Research Associate,Consulting,0.08611536,0.3834068,662.8612575425442
+Geschäftsführender Gesellschafter,Other,0.49912328,0.9840526,1662.6553684211624
+Finance Director Central Europe 🇩🇪🇨🇭🇵🇱,Other,0.55988574,1.0365461,1865.3739648011544
+Senior Program Analyst (Immigration),Other,0.6645958,0.94738483,2288.364912803635
+Betriebsleiter,Other,0.06548458,0.36110955,685.8845748563937
+Chief Executive Officer,Other,0.5659665,1.0626003,1707.7557508741265
+Chief Strategy Officer (CSO),Other,0.10471636,0.4562905,950.7274925090437
+Software Developer,Information Technology,0.017224908,0.18425061,191.61849089976408
+CTO,Information Technology,0.7487819,1.1824561,1606.7962298403675
+Projektkoordinator,Project Management,0.0017476678,0.040606942,41.21960635447634
+Hoofd Bouwbureau,Other,0.68174386,1.1260744,2027.6216281335155
+Head of Package & Installation Design IGC,Project Management,0.029925168,0.24336834,412.0919313017472
+Director General Sector and Global Programmes,Other,0.18345565,0.6032363,1130.3535469528608
+Station Manager at Ground2Air in Palma de Mallorca,Other,0.5117847,1.0075684,2196.3462033620235
+Bereichs PDL,Other,0.11707443,0.482762,976.3870988766279
+Geschäftsinhaber,Other,0.2027114,0.6353826,1041.1123828800924
+Geschäftsführer CFO,Other,0.12517023,0.49945775,999.0778421170355
+Senior Project Leader,Project Management,0.003722906,0.066465445,71.73002658997139
+Verwaltungsratsvorsitzender,Other,0.33058143,0.8073195,1414.7392494829958
+Dozent/ Ausbilder,Other,0.581864,1.0700488,2447.9081700024994
+"Teamleder arkitektur, drift og sikkerhet IT-seksjonen VID",Information Technology,0.0003670454,0.025197752,21.361647538553985
+Responsable technique,Information Technology,0.58269423,1.0717235,1915.5739831357446
+Partner,Business Development,0.45393223,0.936832,2123.2159106487356
+Geschäftsführer und Podcast-Host,Other,0.46752042,0.9640358,1972.118613841436
+Business Consultant,Consulting,0.00096303225,0.038902447,33.03938540713503
+President Of The Board Of Directors,Other,0.7140467,1.1926414,2204.097790698348
+Head of Group Capital Markets,Other,0.687213,1.1715686,1825.623430891631
+Chairman of Board of Appeal and Member of Enlarged Board of Appeal,Other,0.63847005,0.9662922,1961.3950383799104
+Citrix Systems Engineer,Information Technology,0.005887985,0.10790834,184.4363711947697
+Anesthesiemedewerker,Other,0.15520847,0.55216956,897.8139058885254
+Vertriebsdirektor,Sales,8.6426735e-05,0.007065344,6.41912319066379
+Projektleder,Project Management,0.012339473,0.044742174,60.982649754907456
+Geschäftsführer,Other,0.1678173,0.5786011,1048.569563566224
+Geschäftsführender Gesellschafter,Other,0.49912328,0.9840526,1662.6553684211624
+CEO,Other,0.735356,1.2111485,1792.3440298026035
+Gerente de Comunicação e Marketing,Marketing,1.3232231e-05,0.0057502603,5.820119166336727
+Geschäftsführer Finanzen,Other,0.23119032,0.6784306,1482.8093847857397
+CEO,Other,0.735356,1.2111485,1792.3440298026035
+Algemeen directeur,Other,0.45316952,0.9508196,1482.496078085696
+Executive Director,Other,0.28922707,0.75950694,1377.83099084831
+Supply Chain Lead & Master Planning,Other,0.1348455,0.51592034,1127.6507145631163
+Chief Executive Officer,Other,0.5659665,1.0626003,1707.7557508741265
+Information Technology Business Analyst,Information Technology,7.5638294e-05,0.01831026,19.872239645102052
+Global VP and Head of Sustainability Innovation,Other,0.4882329,0.9879332,1415.9530198482817
+Vorstandsvorsitzender,Other,0.41177416,0.9003111,1421.4907657778751
+Private Equity Investments,Other,0.6917742,1.1795367,2185.254184988175
+DevOps Orchestration Manager,Information Technology,0.11275482,0.474431,892.0231533943431
+Leiter Expansion und Projektentwicklung,Project Management,0.008748412,0.12926567,337.8883201046888
+Head of Marketing: Promoting label-free cell analysis technology,Marketing,6.16312e-05,0.008591893,11.069272433345027
+Kfz-Mechatroniker,Other,0.002185464,0.066198185,126.50603268855434
+Grafik Designer,Marketing,0.093866825,0.42865437,896.0610238091487
+Chief Technology Officer,Information Technology,0.0039366484,0.084455594,129.6711591080401
+Manager Regional Key Accounts Americas,Sales,0.0005503297,0.01888755,45.729605266029544
+Digital Project Managerin Marketing,Marketing,1.0550022e-05,0.005033019,6.551372118232061
+Mediaberater DpS - Fachzeitschrift f. Schädlingsbekämpfung/SalesManager DpS - Pest Control Magazine,Sales,0.0003708601,0.023578258,26.480002548775655
+Data Analyst,Information Technology,0.26768482,0.73126084,1314.7384002571484
+kfm. Prokurist,Other,0.55359185,1.0509869,1745.3854925486603
+Professor,Other,0.14042139,0.50711834,810.1628289343413
+Directeur de la construction,Other,0.19198078,0.61517346,974.1986446811815
+Director of Business Development,Business Development,0.00020223856,0.010850775,14.050064239488481
+Neutraubling,Other,0.2700079,0.7340837,1662.9940057150227
+Abteilungsdirektor Vertrieb,Sales,4.0352345e-05,0.0050226613,5.944142301432878
+Data Analyst (Sustainable & Fund Finance),Other,0.31403053,0.75777113,1461.2725316362007
+Kundansvarig,Sales,0.55259275,0.949446,1708.5576709662482
+Geschäftsführer,Other,0.1678173,0.5786011,1048.569563566224
+Referatsleiter,Other,0.57829714,1.0566888,1729.7315953335374
+Global IT | Solution Architect Supply Chain Transportation,Information Technology,0.0003027916,0.024199,24.38697414314208
+Leiterin E-Commerce,Marketing,0.5468135,1.0300481,1586.8727794956865
+Büroleiter,Administrative,0.6602932,1.054951,1816.503025884253
+Managing Director,Other,0.5972677,1.0922502,1942.8877015511073
+ppa. Head of Treasury & Insurance,Other,0.3046831,0.78048027,1483.1110780243544
+Sourcing Specialist,Purchasing,0.47208393,0.9635369,2127.3006225181575
+"Founder, Owner",Other,0.30019212,0.7740955,1423.9824823692618
+Marketplace Manager / Online Shop Manager,Sales,0.42357755,0.8650999,1190.521823007605
+Vorsitzender des Vorstandes (CEO),Other,0.7424464,1.2073413,1829.955208977062
+Geschäftsführer,Other,0.1678173,0.5786011,1048.569563566224
+Teamleiter Disposition Fahrzeuge und Stv. Ressourcenplaner,Other,0.3841294,0.86419713,2036.1559039111373
+Account Manager,Sales,0.0005989671,0.02095394,25.213485750622294
+Head of Marketing Communications EMEA - Oxford Instruments Group,Marketing,4.440546e-05,0.0063154097,7.6127900260754
+Unternehmensinhaber,Other,0.4720872,0.9712827,1643.3335233315695
+Marktondersteuning,Sales,0.61071,1.0794979,1920.4436822171103
+Director OpenValue Amsterdam,Other,0.5322046,1.0147202,1738.318960195448
+Senior Customer Care Representative,Customer Support,0.44168407,0.9250291,1401.6891149386202
+CTO,Information Technology,0.7487819,1.1824561,1606.7962298403675
+Group Design Strategy & -targets,Other,0.13904357,0.5194716,1019.081617765906
+CEO,Other,0.735356,1.2111485,1792.3440298026035
+Managing Director,Other,0.5972677,1.0922502,1942.8877015511073
+Assistant Manager,Other,0.5763319,1.0715809,1727.12774548784
+Lead consultant,Consulting,0.03292328,0.25494236,470.21476488477236
+Geschäftsführender Gesellschafter,Other,0.49912328,0.9840526,1662.6553684211624
+Head of IT Services & Operations Management,Information Technology,0.0001783967,0.017096804,16.616503716268614
+Teamleader IT Operations Management,Information Technology,0.00013905764,0.014232932,15.231726896619932
+Vertrieb,Sales,0.000605464,0.028830793,21.710922208132306
+Technischer Experte für Stellwerkstechnik,Information Technology,0.10623342,0.43885663,713.127733365913
+HR-Manager,Human Resources,0.010008395,0.13130488,139.972118877636
+Operation Supervisor,Other,0.35707098,0.84427065,1302.5147195786433
+Geschäftsführer,Other,0.1678173,0.5786011,1048.569563566224
+Konstrukteur,Other,0.09343898,0.43097728,724.0692400936523
+Projektleiter in der Engineering IT,Information Technology,0.0001617074,0.014072219,16.894689484077258
+Sales & Marketing Management,Other,2.6345253e-05,0.0063320636,5.610428565354497
+Ruby Fullstack Developer,Information Technology,0.037424505,0.272794,635.098321559508
+CEO,Other,0.735356,1.2111485,1792.3440298026035
+Chef de projet senior,Project Management,0.0061437488,0.09603188,143.5479444602557
+Country Manager Czech Republic and Slovakia,Other,0.756017,1.2197,2744.668205257953
+Geschäftsführer,Other,0.1678173,0.5786011,1048.569563566224
+Group CEO,Other,0.6986566,1.1807617,1946.9644077153093
+"Director, Finance and Information Technology",Other,0.08350116,0.4066464,931.8883345349109
+Bergungsleiter,Other,0.58042204,1.0378469,1931.9884740330294
+Co-CEO,Other,0.560907,1.0579292,1756.1152505850325
+Aircraft Physical Security Expert,Other,0.34332716,0.82663596,1798.0426047202757
+General Manager,Other,0.46716774,0.9658605,1748.9486419647385
+Head of Regulatory Projects,Consulting,0.009316444,0.14205974,290.36080900380114
+Owner,Other,0.23991364,0.6910973,1535.5863314174596
+Financial Analyst,Other,0.32541704,0.7884275,1693.1602437105844
+Mentor,Other,0.059590876,0.32783398,721.8601185511609
+Vertriebsingenieur,Sales,9.0420246e-05,0.007435836,6.516374255742877
+Professor im Ruhestand,Other,0.1376046,0.49613312,992.3102629234581
+Vedoucí pobočky Popůvky,Administrative,0.18004245,0.59999233,1707.6728425369886
+Geschäftsfüherer,Other,0.12762308,0.4916268,846.962517017289
+"Dezernat für Wirtschaft, Stadtentwicklung, Liegenschaften und Ordnungswesen - Büroleitung/Referent",Other,0.09287506,0.3897295,851.1019624813779
+Senior Enterprise IT Systems Specialist,Information Technology,0.00014001131,0.012974907,15.666762626646872
+Vikar,Other,0.14291537,0.53397286,1213.1185806734397
+General Manager,Other,0.46716774,0.9658605,1748.9486419647385
+Chief Sales Officer (CSO),Sales,1.7464161e-05,0.005289268,8.315769488162625
+Key Account Manager,Sales,0.00047528744,0.013079423,18.586937762951763
+Selbstständig,Other,0.7185837,1.1969483,2328.8401986495696
+Project Manager,Project Management,0.011159599,0.030353414,41.22507067104588
+Enseignant,Other,0.04055214,0.28348997,517.0715164162722
+Senior Account Manager Public Sector,Sales,0.00042688847,0.00841229,19.08051375422557
+Senior Consultant Procurement Excellence,Consulting,0.00066924095,0.022519771,39.4487979948277
+Rechtsanwalt,Other,0.09490901,0.41951248,1001.5848131952463
+Commercial Service Manager,Customer Support,0.16049325,0.56549054,1252.4657592516864
+Head of CapEx Delivery Management and Planning Site Leverkusen,Project Management,0.21473587,0.64380795,1054.0127535240567
+Quality Manager,Other,0.55845845,1.0456557,1967.9485040379502
+Senior IT-Lizenzspezialist,Information Technology,0.00021874905,0.01756668,16.992755412425677
+Strategy Director,Business Development,0.4309113,0.89995575,1668.7431857360623
+Unternehmensinhaber,Other,0.4720872,0.9712827,1643.3335233315695
+Unternehmensinhaber,Other,0.4720872,0.9712827,1643.3335233315695
+Managing Director,Other,0.5972677,1.0922502,1942.8877015511073
+Director Commercial Operations,Marketing,0.059467018,0.34352776,723.0301728674505
+Betriebsleiter API-Produktion,Information Technology,0.020724833,0.20383103,346.0444302712245
+Human Resources Specialist,Human Resources,0.049843967,0.2845377,124.2837309435489
+49504,Other,0.20854962,0.64489585,1247.7968879524785
+Family Nurse Practitioner,Other,0.33742118,0.8211143,1564.8267408685278
+Global Chief Engineer / Manager - Power Electronics (OBC/DCDC),Information Technology,0.008333385,0.12902996,217.78888399055117
+Inhaber rido gmbh,Other,0.5941533,1.0888466,2561.1280641688586
+SAP Solutions Consultant,Consulting,0.0014100671,0.039577603,41.54975241896479
+Senior Treasury Manager,Other,0.14279032,0.53377473,1197.1257074934767
+Senior Consultant,Consulting,0.0026418567,0.027311226,28.40300305000744
+Freelance Marketing Consulting / Client Service / Interim Marketing & Branding,Consulting,8.535385e-05,0.010236639,12.757898337921127
+VP Product Management,Project Management,0.022156894,0.21053259,457.7986510694018
+Head of Mechanical Engiuneering,Other,0.5857624,1.0820423,2406.001103982216
+Progettista Finanza Agevolata - Research Funding & Administration,Other,0.0016947985,0.059253566,63.58134082870666
+Software Engineer IV,Information Technology,0.015620172,0.17630324,289.2506725187116
+Communications Coordinator,Marketing,0.00016355515,0.0065314504,13.233859679511642
+Head of ICT,Information Technology,0.0023102164,0.065902546,105.40409274809375
+Managing Director,Other,0.5972677,1.0922502,1942.8877015511073
+Responsable,Other,0.7062386,1.1458014,1950.263085787344
+Head of Sales DACH,Sales,8.761883e-06,0.0064533902,6.738657142926742
+Senior Partner,Business Development,0.3008982,0.75608027,1700.3411497688596
+Application Consultant,Consulting,0.002368927,0.023774395,32.074312023839724
+Partner,Business Development,0.45393223,0.936832,2123.2159106487356
+Postdoctoral Researcher and Lecturer,Other,0.014478207,0.12169484,236.68784382621092
+Purchasing Manager,Purchasing,0.0036321878,0.09607793,62.82362705659748
+Postdoctoral Research Fellow,Other,0.06482881,0.32483378,507.95995211926976
+Strategic Purchasing Manager • Group Purchasing,Purchasing,0.0077533126,0.11182561,127.94124462937752
+Konsult HR,Human Resources,0.014140427,0.14473689,141.87227283906287
+Leiter Vergütung & Versorgung,Human Resources,0.026377141,0.22956903,509.0545988207303
+Produktmanager Optomechanik,Project Management,0.33803177,0.8199623,1473.878601581314
+Senior Vice President,Other,0.5883452,1.0820253,1919.5647569954422
+Clinical Physicist,Other,0.020635188,0.19230588,417.5811620670761
+Arbeitslos,Other,0.57582074,0.71283996,1621.9456102215674
+"Senior Lecturer, Education-Focused",Other,0.059803486,0.30977863,722.8165394935966
+Director of Sales & Marketing,Sales,1.8119812e-05,0.0066793105,5.370135522626485
+Master Data & Demand Manager Supply Chain Management,Other,0.5668978,1.06252,2086.295188537005
+Verkaufsleitung,Sales,0.29234666,0.66413015,1498.9816104687384
+Platform Support Direct Drive,Customer Support,0.012671888,0.065022536,138.99899355323774
+Recruitment Manager,Human Resources,0.60862285,0.9021539,1325.5103040857025
+"Vice President, National Sales Manager",Sales,1.180172e-05,0.006814645,7.13400543809508
+Geschäftsführer SPIE GfT GmbH,Other,0.06491238,0.3593973,892.7088231369238
+Professor,Other,0.14042139,0.50711834,810.1628289343413
+Head of Marketing Technology (Teamlead),Marketing,2.7239323e-05,0.005081285,7.529174147446251
+AUTOMATICIEN ELECTRICIEN,Other,0.016140342,0.17810687,314.87084438604126
+General Manager,Other,0.46716774,0.9658605,1748.9486419647385
+Grafikdesigner (Freelance),Marketing,0.25493503,0.6923997,1263.301766987937
+Account Manager & Talent Acquisition Lead,Human Resources,0.00058978796,0.012462826,25.627997502697298
+Geschäftsführender Gesellschafter,Other,0.49912328,0.9840526,1662.6553684211624
+Maintenance & Engineering Manager,Information Technology,0.040885806,0.28467354,497.9272704551917
+Bereichsleiter Central Service Center,Customer Support,0.062162817,0.3507845,745.9695091919864
+Researcher,Other,0.032557905,0.22950076,284.97071910587215
+Schornsteinfeger Meisterbetrieb,Other,0.42113054,0.91669333,2063.723292123044
+Senior UX Designer,Information Technology,0.2422682,0.679353,1426.0455452207066
+Cloud Advisory Analyst,Consulting,0.08438194,0.38447753,859.7890686342686
+Leiter Managed IT | Cloud Services,Information Technology,0.00023126602,0.0171777,19.201320313449077
+Senior Manager B2B Contract & Implementation Management,Project Management,0.17821187,0.588649,1229.6030963945661
+Research Development Group Manager,Information Technology,0.12504315,0.468839,749.2346249118572
+Head of accounting and tax department,Other,0.015998125,0.17664258,429.3904946656568
+Teamleiter Bestandesentwicklung,Other,0.20791256,0.6414168,1207.3800212637977
+Juristin,Other,0.08425063,0.39406124,1044.9851752773384
+Projektleiter,Project Management,0.01361233,0.041507736,45.28903778861045
+Head of Procurement,Purchasing,0.5155709,0.9989428,1710.5218538518573
+Ägare & affärsområdeschef IT (CTO),Information Technology,0.00022810698,0.018576378,20.486905080016786
+Managing Director (CTO),Information Technology,0.5221065,1.0211425,1738.9970912203166
+Senior Manager,Other,0.61745024,1.0699428,1917.388013527492
+Cyber Security Analyst - Senior,Information Technology,0.045984924,0.3021917,651.3906774461586
+Purchasing Senior Manager,Purchasing,0.00484246,0.10463838,131.65730380448875
+Partner,Business Development,0.45393223,0.936832,2123.2159106487356
+Managing Director,Other,0.5972677,1.0922502,1942.8877015511073
+"Vorstandsassistent, CMO",Marketing,0.0041676164,0.08959687,153.76147339012402
+Co-Founder and CEO,Other,0.69838935,1.1661229,1920.9585611937318
+Sub-Manager Coordination & Planning,Project Management,0.20276445,0.6344125,1520.069843653148
+Geschäftsführer (CEO),Other,0.5247029,1.0230427,1745.966001990872
+Vakbekwaam Hovenier,Other,0.48278433,0.9685067,2227.841585896778
+Verkaufsmanager,Sales,0.34543014,0.6833897,1238.6403739635252
+Professor of French and Francophone Studies,Other,0.091219425,0.40259546,985.6114284897568
+HR Specialist Personnel Development,Human Resources,0.010811627,0.124118805,102.1689022436399
+Directeur,Other,0.2149759,0.65479624,1168.1685294577273
+Senior Executive in L&D Department,Human Resources,0.63237464,1.0673704,1801.1545362032773
+Finance and HR,Other,0.013041973,0.14764948,110.88851775613665
+Geschäftsführer + Berater + Designer,Other,0.0039167404,0.03933022,92.16047653038773
+PHD Student,Other,0.05243373,0.32334197,580.9279817969744
+Dozent,Other,0.81366396,1.2289333,2738.944959018662
+"AVP, Dental Quality & Clinical Oversight",Other,0.022148073,0.2004972,469.1443004880646
+Vorstandsvorsitzender der Kick-Media AG,Other,0.75638324,1.2019906,1795.2297100274807
+Administrateur suppléant/ Membre des Commissions Marchés / Relations avec le Public / CTR2,Other,0.019668162,0.19769135,456.1044683653221
+"Gesamtleiterin Personal, Mitglied der Geschäftsleitung",Human Resources,0.3959639,0.8883657,1445.9804142284706
+Partner,Business Development,0.45393223,0.936832,2123.2159106487356
+Responsable de salle,Administrative,0.75774205,1.2033962,2414.648942461126
+Special Education Advocate/Education Consultant,Consulting,0.0017324686,0.039804228,70.29938726861839
+CEO & Co-Founder,Other,0.7328961,1.1764947,1939.7303379598575
+Bauprojektleiter,Project Management,0.01781106,0.15995358,212.59994413718087
+Owner,Other,0.23991364,0.6910973,1535.5863314174596
+Systemischer Berater für Organisationsentwicklung und Coach,Consulting,0.011257589,0.1221322,129.19876500995258
+General Manager/Vice President of Planning,Other,0.087459564,0.41495046,800.7235854704492
+Senior Diversity & Inclusion Partner,Human Resources,0.44147938,0.9199278,1695.0646129112088
+Managing Director,Other,0.5972677,1.0922502,1942.8877015511073
+Key Account / Project Manager,Other,0.00059366226,0.01892466,33.43557019350043
+Owner,Other,0.23991364,0.6910973,1535.5863314174596
+Senior Commercial Manager,Sales,0.5033665,0.9980819,1604.3686302775336
+Executive Vice President Connected Software Systems & Services,Information Technology,0.10523832,0.4582559,1001.7640627305697
+"Abteilungsleiter Vertrieb, Dipl. Bankbetriebswirt Management (ADG)",Sales,0.00013142824,0.011708123,11.556407270212906
+HR IT Consultant,Consulting,0.0012556314,0.051052053,67.52445170208875
+CEO,Other,0.735356,1.2111485,1792.3440298026035
+Bestuursassistent,Administrative,0.04276979,0.28305268,525.282116397398
+Senior Data Analyst,Information Technology,0.3327244,0.81508183,1636.5478566169431
+Tekniklektor,Information Technology,0.008565605,0.13014233,174.56778009528605
+Trainee Solicitor,Other,0.5307765,1.014002,1758.3732246403233
+Managing Director,Other,0.5972677,1.0922502,1942.8877015511073
+Chief Operating Officer,Other,0.011962473,0.15375297,308.2232631944571
+Geschäftsführer Bergauer-Logistic,Other,0.21121138,0.6493336,1124.1420086030112
+Senior Technology Architect,Information Technology,0.0039482117,0.08524613,114.88376149308738
+Director Of Food And Beverage,Other,0.6477934,1.1334063,2439.7251036744383
+Managing Sr. Underwriting Director,Other,0.6875521,1.1724715,1901.3447624651171
+Head of Business Unit Finance | Executive Vice President,Other,0.0004312992,0.017786853,28.68973908657551
+Facility Coordinator CBRE GWS GmbH,Administrative,0.016169429,0.17995283,337.4599812043975
+Director,Other,0.18172914,0.6021716,1137.4494481858083
+Associate,Other,0.64372385,1.1301774,1666.5333686105444
+Buyer,Purchasing,0.2793942,0.616856,1407.1107150093962
+Warranty Service Specialist,Customer Support,0.43345207,0.9302695,1744.6615990932148
+HR - Talent Manager,Human Resources,0.010006547,0.12666254,84.24815165957786
+Senior Director of Sales & SDR Germany,Sales,3.0040741e-05,0.0052625355,9.267820673465051
+Addetto alla logistica,Other,0.42215294,0.8792894,1630.3909923763395
+Assistant Clinical Research Associate,Other,0.021805525,0.20050122,428.8077263017458
+Office Administrator,Administrative,0.0031095147,0.07762346,101.22237245980621
+Regionaler Vertriebsleiter,Sales,2.0503998e-05,0.0060875444,6.845290083834372
+Portfolio Manager,Other,0.62648845,1.1130306,1677.6701284692183
+Inhaber,Other,0.36024827,0.8478151,1226.024813907547
+Technical Development Manager - Interconnect,Information Technology,0.22643006,0.66942817,1133.4435646487887
+Partner und VRP,Business Development,0.011181116,0.14976615,278.5371670787964
+Vice President,Other,0.5276556,1.0247285,1872.7008838223474
+Chief Executive Officer,Other,0.5659665,1.0626003,1707.7557508741265
+Programmierer,Information Technology,0.003967464,0.08875721,130.98455017218447
+Global Mobility Consultant,Consulting,0.0004531145,0.039951533,67.39006584360878
+"Facharzt für Orthopädie und Unfallchirurgie,Chirurgie Chirotherapie, , Naturheilverfahren",Other,0.0650295,0.35864198,807.8760496349132
+Qualitätsmanager,Project Management,0.623015,1.1150349,1929.7819838310963
+CEO,Other,0.735356,1.2111485,1792.3440298026035
+Senior Manager,Other,0.61745024,1.0699428,1917.388013527492
+DayTrader,Other,0.731207,1.2020712,2804.560153450265
+VP Purchasing & Supplier Quality Webasto China,Purchasing,0.021883905,0.20203955,554.7605705881779
+Equipment Project Manager,Project Management,0.002173841,0.051057845,89.96090076989633
+Business Owner,Other,0.0016440749,0.042377003,30.408373959391586
+Geschäftsführer - CEO,Other,0.7644702,1.2359197,1870.783592761273
+EVP Strategic Partnerships,Business Development,0.47506136,0.9599288,1632.9832574925313
+Senior HVAC Technician,Other,0.015720129,0.17754051,297.14466298101297
+Non Executive Director - Member of the Supervisory Board,Other,0.18620068,0.6073617,1280.5346985517579
+Bauverwaltung,Administrative,0.32151526,0.80155057,1058.600050082176
+Rechtsanwalt mit Schwerpunkt Gen-/Biotechnik und Arzneimittelrecht,Other,0.11990231,0.48806486,1194.757552944181
+Sports Columnist,Other,0.1483007,0.530955,1276.0305914181258
+Managing Consultant - Business Transformation,Consulting,0.00069624186,0.02878116,30.972068205558497
+CEO,Other,0.735356,1.2111485,1792.3440298026035
+Vorsitzender der Aufsichtsräte Mecklenburgische Versicherungen,Other,0.6335207,1.1254694,2362.3573974130964
+Junior Referent Landesförderinstitute,Other,0.39935035,0.87082833,1606.7725631169267
+Kingmaker,Other,0.7037727,1.1774075,1986.0126552835616
+Head of Sales & Partnerships,Sales,1.7166138e-05,0.004455129,7.204188605088703
+Public Health Consultant,Consulting,0.0012266636,0.033267576,58.62045315700387
+Vertriebsleiter,Sales,9.226799e-05,0.0077318866,6.4693598457992305
+DevSecOps CoE Lead,Information Technology,0.028126001,0.23678507,469.93395968753015
+Executive Vice President Digital Customer Solutions,Marketing,0.00036364794,0.013088387,21.22084247154749
+Senior Financial Crimes Investigator,Other,0.6773156,1.141606,2101.7850216200322
+Projektmanager Therapieberufe,Project Management,0.14142382,0.523547,775.5509347008554
+Leiter Zerstörungsfreie Prüfungen MQP,Other,0.6617676,1.1359056,2117.1222933455174
+Referent Digitale Schiene,Marketing,0.0003284812,0.011013092,19.036881879773876
+Director Projects,Project Management,0.0048332214,0.07162972,56.53220565299994
+Geschäftsführer / General Manager,Other,0.53761566,1.0361296,1754.9371685265255
+Managing Partner,Business Development,0.5451228,1.0275075,2031.5967608076671
+Diatary Aide,Other,0.67291105,1.1398709,1889.2014502626105
+Consultant,Consulting,0.00959444,0.093065806,71.60715519703432
+Research Analyst,Other,0.056252718,0.29836866,542.4903863874081
+Senior Consultant Data Center,Consulting,0.0004169345,0.035406232,35.060146469402895
+Head Of RIV Academy - Blockchain,Information Technology,0.014966369,0.17165586,346.066993683274
+Software Architect,Information Technology,0.014829218,0.17168467,189.1733196971537
+Product and Service Manager Qualitymanagement; Solution architect,Other,0.332426,0.8144861,1593.1067422114384
+Geschäftsführender Inhaber,Other,0.5639341,1.0564369,1687.1432862277911
+Team/Bereichsleiter,Other,0.5004972,0.9843419,2045.9903234771807
+Elektrotechniker mit erweitertem Aufgabenbereich,Other,0.018122494,0.19040963,317.63111768600265
+(gedelegeerd) Business owner,Other,0.00048577785,0.027085576,39.44569062340266
+"Regional Sales Manager, Central European Region",Sales,1.8894672e-05,0.0054054875,7.9212601154510915
+Mitglied der Geschäftsleitung,Other,0.29058874,0.75611556,1172.5569670339696
+Chief Transformation Officer,Other,0.21853238,0.6600107,1267.196259894209
+General Manager:in,Other,0.7001682,1.1520803,2057.520170165758
+Summoner,Other,0.40446508,0.89847827,1828.5068859811956
+Professeur de Mathématique particulier,Other,0.3136738,0.7916233,1433.5178487614064
+Business Development Leader,Business Development,0.0004515648,0.015192608,15.195427765000401
+Mitgründerin,Other,0.49946123,0.99580663,1549.6171156959488
+Eigenaar,Other,0.6160508,1.1091886,1627.0975509287964
+Automotive Sales Manager,Sales,1.1205673e-05,0.006316019,7.139474954372226
+Personal Trainer,Other,0.16462564,0.5720524,1294.6882659867617
+Geschäftsführer,Other,0.1678173,0.5786011,1048.569563566224
+cultivation,Other,0.61162317,1.0647572,2232.944663574688
+Pensionär,Other,0.25999475,0.72556865,1274.1124912160317
+Supply Chain Manager,Other,0.51463145,1.0141395,1927.558488966001
+Member Board Of Directors,Other,0.6869246,1.1685665,2027.6635640333502
+"Vice President, Human Resources, Health & Security Subscription Services (H3S), North Americas",Human Resources,0.07630324,0.3766548,777.0403276508852
+Transport Manager,Other,0.748075,1.1851814,2714.7489887790475
+"Key Account Director Europe, Middle East & Africa",Sales,0.37672758,0.8626119,2056.9328954233583
+Softwareentwickler,Information Technology,0.0092686415,0.13472927,162.83822920008987
+Radio Engineering @ TDI | Huawei SRAN & Mobile Network Testing,Information Technology,0.14996654,0.5461401,1191.4712424704567
+Advanced Purchasing - Commercial Vehicles and Services,Purchasing,0.0073668957,0.099405296,124.03434601946817
+Owner - CSO,Sales,0.24805516,0.70097506,1489.158824161717
+Site Manager,Project Management,0.55721444,1.0413637,1985.5345008475765
+"SAP Consultant, Geschäftsführer, Gesellschafter",Consulting,0.0009979606,0.031603795,59.63618327448835
+"Buying, Porecurement & Allocation",Purchasing,0.074337184,0.38730416,836.1743193380106
+Kanzler der deutschen Assoziation,Other,0.45070308,0.9475588,1975.4424654811537
+CFO,Other,0.11529297,0.4788432,906.2182794431369
+Gerente comercial,Sales,0.11462742,0.4783367,893.231905426947
+Set Lighting,Other,0.4739368,0.97252166,2682.224432588958
+Geschäftsführender Gesellschafter,Other,0.49912328,0.9840526,1662.6553684211624
+CEO,Other,0.735356,1.2111485,1792.3440298026035
+Qualifizierter Kreditsachbearbeiter im risikorelevanten Kreditgeschäft,Other,0.008850098,0.13295265,291.06873937944636
+Senior IT-Sicherheitsbeauftragter,Information Technology,0.00021755695,0.018575933,17.78722833243556
+Waiter & Bartender,Other,0.12021893,0.4850907,1347.304236858886
+Owner,Other,0.23991364,0.6910973,1535.5863314174596
+Geschäftsführer,Other,0.1678173,0.5786011,1048.569563566224
+Projektmanager,Project Management,0.0131287575,0.037141424,40.1352520111454
+Danışmanlık,Consulting,0.30804127,0.77299786,868.5193989484299
+Theatermaker,Other,0.6905333,1.1668217,2186.829027532167
+Strategisch inkoper,Purchasing,0.15993679,0.56483203,1020.7332875807541
+Lehrbeauftragter,Consulting,0.12883788,0.48316333,953.7357508694741
+Arbeitgeber,Other,0.7402859,0.8302417,1386.6539774727341
+Styreleder / Partner,Other,0.43171674,0.90688884,2111.910582875797
+Business Owner,Other,0.0016440153,0.042377006,30.40822252089611
+Kaufmännische Leiterin,Other,0.51098394,0.9972289,1764.6342465766859
+Rechtsanwalt,Other,0.09490901,0.41951248,1001.5848131952463
+"Writer, Editor, Publisher",Marketing,0.17547035,0.56505066,1538.3594116113911
+Assistant Treasurer Real Estate,Other,0.50217235,0.9849165,1788.5327359012808
+Sachbearbeiter in der Beschlagwortung / Rückpost,Purchasing,0.41731954,0.8981296,2048.7149536224374
+Head Of Business Consulting | Content & Digital Assets,Other,0.0005760789,0.020701874,26.358483271246648
+Bid Manager,Sales,0.0428434,0.28952122,785.5784200933927
+Self-Employed at Kodestuen ApS,Other,0.10488081,0.45770195,917.9007727125219
+"Regionalbeauftragter Club Sachsen, Thüringen, Sachsen-Anhalt Süd",Other,0.75930274,1.2108083,2292.5978768535706
+Landesdirektor,Other,0.42787898,0.92381746,1523.9406289881633
+Founder,Other,0.096034825,0.43825847,764.164573509891
+Geschäftsführender Gesellschafter,Other,0.49912328,0.9840526,1662.6553684211624
+Regionalleiter Bankenbetreuung Baden-Württemberg,Sales,0.31394798,0.79202724,1653.3651836293886
+Geschäftsführer,Other,0.1678173,0.5786011,1048.569563566224
+Senior Managing Consultant,Consulting,0.0003208518,0.036922004,39.247772286546414
+Head of Startup Engagements for S/4HANA and Digital Supply Chain,Business Development,0.001013279,0.041391544,52.614472315366896
+Geschäftsführer,Other,0.1678173,0.5786011,1048.569563566224
+Head of Logistics,Other,0.58093846,1.0522645,1705.1079092675711
+Founding Partner,Other,0.6217692,1.0894437,1706.0017988050652
+Directeur projet,Project Management,0.005935788,0.08562894,112.93636337221965
+Unternehmensinhaber,Other,0.4720872,0.9712827,1643.3335233315695
+Account Manager,Sales,0.0005989671,0.02095394,25.213485750622294
+Director Code Nomads Amsterdam,Information Technology,0.62882465,1.0918157,2123.383811448362
+Senior Audit Associate,Other,0.5580425,1.0540549,1944.3177958625702
+Werteorientiertes Führungskräftetraining,Consulting,0.78145736,0.9473762,2241.2401596717973
+Retail Marketing Management,Marketing,3.9756298e-05,0.0051138923,6.151328573494194
+Executive Director at Adform s.r.o.,Other,0.548395,1.0281113,1752.2898624290704
+Head of Account Management,Sales,0.006596267,0.107846014,267.1458915360643
+Founder,Other,0.096034825,0.43825847,764.164573509891
+Vorstandsmitglied,Other,0.4515713,0.9430207,1591.6927446279828
+Lead engineer/ groepscoordinator,Information Technology,0.37748212,0.8680975,1346.8768588465998
+Projektleiter,Project Management,0.01361233,0.041507736,45.28903778861045
+Rechtsanwalt,Other,0.09490913,0.41951263,1001.5849804040126
+Teamleitung - Ersatzteile,Purchasing,0.64258254,1.1070933,2082.2272745047867
+Geschäftsleiter,Other,0.35576296,0.8421452,1196.014129251023
+Senior Manager Product Development,Information Technology,0.0974586,0.4369608,840.270002942649
+Chief Researcher,Information Technology,0.025176883,0.19115262,271.0323110945436
+Partner,Business Development,0.45393223,0.936832,2123.2159106487356
+CEO Krüger Kommunikasjon AS,Other,0.00046736002,0.029465528,77.7699400237876
+Researcher,Other,0.032557905,0.22950076,284.97071910587215
+Commercial Director,Other,0.122089446,0.4932776,1001.1918125074747
+Geschäftsführender Gesellschafter CEO,Other,0.69669604,1.1733801,1828.7681711150913
+Mitglied des Aufsichtsrats,Other,0.2644273,0.7223942,1299.8587995948521
+Projektleiter Bestandesentwicklung bei Liegenschaften Stadt Zürich,Project Management,0.0044633746,0.06946531,131.50627331881952
+Founder and owner,Other,0.17399716,0.5892562,1098.55523890941
+HGF,Other,0.21722049,0.65843314,1316.4963913690142
+Managing Director & Co-Founder,Other,0.7238506,1.1887842,1915.3769876663491
+Quality Engineer,Information Technology,0.07177001,0.37880272,690.9166094340721
+Assistent der Geschäftsleitung,Administrative,0.0005335808,0.031124182,33.309284391741365
+Sub-Manager Coordination & Planning,Project Management,0.20276445,0.6344127,1520.0705899272116
+Co-Executive Director,Other,0.6088292,1.1022428,1729.1351533713332
+Geschäftsführer,Other,0.1678173,0.5786011,1048.569563566224
+Assistant,Administrative,0.12129015,0.49190935,876.8095944512091
+Project Coordinator Finance,Project Management,0.0018661022,0.06661618,96.42644740321616
+"Projektleiter, Bau-+ Neubauprojekte",Project Management,0.004261911,0.079135545,103.1100334497124
+Owner,Other,0.23991364,0.6910973,1535.5863314174596
+"Utbildare och konsult inom organisation, ledarskap och projektledning",Consulting,0.037056267,0.24878962,436.66953748141475
+Geschäftsführer,Other,0.1678173,0.5786011,1048.569563566224
+Facility Coordinator,Administrative,0.37392747,0.8436714,1430.1411197348132
+Member,Other,0.6993793,1.1819713,2077.1626670915175
+Director of Sales & SDR Germany,Sales,1.8775463e-05,0.005095305,9.44827579392318
+CEO,Other,0.735356,1.2111485,1792.3440298026035
+Chief Operating Officer,Other,0.011962473,0.15375297,308.2232631944571
+dipl. Bauingenieur FH/STV,Other,0.019587398,0.1954493,371.32543283053406
+Qualitätsmanager,Project Management,0.6230153,1.1150353,1929.783837386184
+Principal,Other,0.4473015,0.944372,1210.7578724857904
+"lian da information technology co., LTD",Other,0.4642489,0.9624575,2107.7893942230126
+Owner,Other,0.23991364,0.6910973,1535.5863314174596
+Co-Founder,Other,0.7454301,1.186068,2098.3812741694896
+Non Executive Director - Member of the Supervisory Board,Other,0.18620068,0.6073617,1280.5346985517579
+Baubeamter,Other,0.57633686,1.0722631,1843.4796946299332
+Founder,Other,0.096034825,0.43825847,764.164573509891
+Member,Other,0.6993793,1.1819713,2077.1626670915175
+Qualitätsicherung,Information Technology,0.7079466,1.1893036,2079.152514560637
+Key-Account-Manager,Sales,0.00043427944,0.029484717,35.99270911483058
+In non compete phase,Other,0.7699228,1.2026776,2452.2827283755432
+Branch Manager,Other,0.41570258,0.9114755,1686.3585529096197
+Business Development Agent,Business Development,0.0005431771,0.018260699,16.2255579351742
+Digitalbeauftragte,Marketing,0.0005968809,0.027296826,23.43459996600349
+Eigenaar,Other,0.6160508,1.1091886,1627.0975509287964
+Président CCRG Hauts de France,Other,0.36037087,0.8472999,1711.1735816421071
+Key Account Director Europe Middle East & Africa,Sales,0.37903035,0.8650878,2059.6474224179215
+Justitiar,Other,0.5830606,1.0661913,1855.2117687310504
+Betriebswirtin,Other,0.032902956,0.2555594,481.2236537672715
+Administrador Unico,Administrative,0.0016748309,0.058823213,95.66230400048937
+Set Lighting,Other,0.4739368,0.97252166,2682.224432588958
+CEO/Founder,Other,0.78698635,1.2440281,2115.156740696583
+IT-Systemadministrator,Information Technology,0.00012874603,0.010872907,12.519693388165473
+Member of the Advisory Board,Other,0.1887765,0.59073466,1170.199952447528
+Trainer/coach,Project Management,0.19769776,0.620019,1303.3121976847021
+Head of Accounting & Controlling,Other,0.0055661798,0.09925556,235.9271110665156
+Geschäftsführender Gesellschafter,Other,0.49912328,0.9840526,1662.6553684211624
+Geschäftsführer,Other,0.1678173,0.5786011,1048.569563566224
+Geschäftsführer,Other,0.1678173,0.5786011,1048.569563566224
+Entrepreneur general et consultat construction,Consulting,0.013065457,0.15370205,298.5860921541193
+Unternehmensinhaber,Other,0.4720872,0.9712827,1643.3335233315695
+Einrichtungsberater,Other,0.17775476,0.5940717,1200.1016290927334
+Board Member,Other,0.56949174,1.0666549,2298.5996182948506
+apl. Professor (adjunct professor),Other,0.068762064,0.3326046,693.4190905783506
+Vorstandsmitglied,Other,0.4515713,0.9430207,1591.6927446279828
+Grundare & ägare,Other,0.32009983,0.7985287,1511.5721991894018
+Member,Other,0.6993793,1.1819713,2077.1626670915175
+Advisor,Consulting,0.15090567,0.53526336,1014.5029934610844
+Geschäftsführer,Other,0.1678173,0.5786011,1048.569563566224
+Prokuristin,Other,0.28193438,0.7501235,1430.471321889466
+Set Lighting,Other,0.47393668,0.9725216,2682.2244709406637
+Member of the Advisory Board,Other,0.1887765,0.59073466,1170.199952447528
+Trainingsacteur en trainer,Consulting,0.121448636,0.48652902,1117.9949816806509
+"Member of the Board, Frankfurt School Stiftung",Other,0.17732924,0.5952171,967.6329836270618
+Geschäftsführender Gesellschafter,Other,0.49912328,0.9840526,1662.6553684211624
+CEO,Other,0.735356,1.2111485,1792.3440298026035
+Verwaltungsangestellter,Administrative,0.09421688,0.43360832,808.8568315398163
+"Executive Vice President,Special Adviser",Other,0.15997899,0.5558608,925.4919335659481
+Freelance Photographer,Other,0.42080903,0.91330284,1928.644060157633
+Member,Other,0.6993793,1.1819713,2077.1626670915175
+Advisor,Consulting,0.15090567,0.53526336,1014.5029934610844
+Präsidium,Other,0.6961808,1.1630825,2095.0586768835738
+CFO,Other,0.11529297,0.47884327,906.2197908187236
+Set Lighting,Other,0.47393668,0.9725216,2682.2244709406637
+Brand Ambassador,Marketing,0.4221139,0.9160298,1963.729456377071
+Co trainer/trainingsacteur,Other,0.32896185,0.7919862,1649.658682339549
+Aufsichtsrat,Other,0.6258858,1.1138499,2072.227433074036
+Impulsgeber bei KAISERSCHOTE GmbH,Other,0.032821774,0.2558503,563.9999113192445
+ExO Sprint Coach,Consulting,0.75797296,1.1409354,2829.87083999485
+Rechtsanwalt,Other,0.09490901,0.41951248,1001.5848131952463
+Acteur en theatermaker,Other,0.68550354,1.161293,2656.181986497778
+Geschäftsführer,Other,0.1678173,0.5786011,1048.569563566224
+ExO Trainer,Other,0.20198959,0.63364017,1311.5948278408866
+Geschäftsführer,Other,0.1678173,0.5786011,1048.569563566224
+Ambassador,Sales,0.32562762,0.8020659,1813.6798515086093
+Trainer/docent,Human Resources,0.11660564,0.48353264,1070.2862936099882
+ExO Consultant,Consulting,0.0010264516,0.028660115,55.54728018673397
+"Freelance acteur, regisseur en scriptschrijver",Other,0.31517547,0.77734196,1636.906639968264
+Member,Other,0.6993793,1.1819713,2077.1626670915175
+Multiplicador B,Other,0.6116972,1.1052986,2149.8864295918306
